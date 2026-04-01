@@ -43,3 +43,6 @@ I am a Research Engineer at DeepMind, based in London. My work is primarily focu
 ### Contact
 
 * **Professional Network:** [LinkedIn Profile](https://www.linkedin.com/in/pavel-khrushkov-98b485110/)
+
+### GitHub Notice
+My previous GitHub account [Github Profile](https://github.com/bazpasha) is no longer actively maintained. This is my new and currently active GitHub profile where I will be sharing my latest work, experiments, and research projects.
